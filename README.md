@@ -1,4 +1,6 @@
-**NOTE UNSTABLE EXPERIMENTAL CODE**
+# Archived and obsolete
+
+This work is proceeding by contributing directly to https://github.com/cloudevents and https://github.com/knative
 
 # A simpler way to build knative eventing sources
 
